@@ -1,0 +1,6 @@
+browser chrome
+url https://www.amazon.in/
+username vivek choudhary
+mobile 895346657187
+gmail vivekchoudhary@gmail.com
+password viv123@
