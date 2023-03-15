@@ -140,11 +140,11 @@ Steps to Automate:
 
 8.Click on Sandals & Floaters of your choice.
 
-8.Click add to cart button and go to Cart.
+9.Click add to cart button and go to Cart.
 
-8.Delete the product from the Cart. .
+10.Delete the product from the Cart. .
 
-9.back to homepage.
+11.back to homepage.
 
 
 
